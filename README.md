@@ -1,12 +1,14 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-24 11:30:19
- * @LastEditTime: 2022-02-24 11:44:36
+ * @LastEditTime: 2022-02-24 11:58:11
  * @LastEditors: BDFD
- * @Description: 
- * @FilePath: \3.4-E-book_Template\README.md
+ * @Description:
+ * @FilePath: \E-book_Flask\README.md
 -->
+
 # 3.4-E-book_Template
+
 Similar to Gitbook but standalone version
 
 Descritpion Template
@@ -45,9 +47,9 @@ Common Tag: E-book, Gitbook, HTML, CSS, Javascript
 - Here is the dataset :
   <a href="Dataset Url">Dataset.csv</a><br><br>
   > Reference:
-  > <a href="Other Useful Url Link"> Other Useful Link</a>
+  > <a href="Other Useful Url Link"> Other Useful Link</a><br />
   > Demo Link:
-  > <a href="E-book Useful Url Link">E-book Url Link</a>
+  > <a href="E-book Useful Url Link">E-book Url Link</a><br />
   > Vedio Link:
   > <a href="Youtube Useful Url Link">Youtube E-book Description</a>
 
